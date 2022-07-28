@@ -1,16 +1,15 @@
-### Hi there 👋
+# Riccardo Galli
 
-<!--
-**Ricmatgal/Ricmatgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github, I am Riccardo, partly Ph.D. student and partly data scientist wannabe.
 
-Here are some ideas to get you started:
+You can contact me here (low chances of reply):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/riccardomgalli)](https://twitter.com/riccardomgalli)
+
+Or here (higher chances of reply):
+
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-mattia-galli-689281156/)
+
+Last chance (and best one):
+<riccardo.galli@unige.ch>
+
