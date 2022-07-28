@@ -4,7 +4,7 @@ Welcome to my Github, I am Riccardo, partly Ph.D. student and partly data scient
 
 You can contact me here (low chances of reply):
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/riccardomgalli)](https://twitter.com/riccardomgalli)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 Or here (higher chances of reply):
 
