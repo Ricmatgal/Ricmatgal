@@ -1,6 +1,6 @@
 # Riccardo Galli
 
-Welcome to my Github, I am Riccardo, partly Ph.D. student and partly data scientist wannabe.
+Welcome to my Github, I am Riccardo, partly Ph.D. student and partly data scientist.
 
 You can contact me here (low chances of reply):
 
